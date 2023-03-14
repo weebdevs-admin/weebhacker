@@ -21,3 +21,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weebhacker&show_icons=true&locale=en&layout=compact" alt="weebhacker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weebhacker&show_icons=true&locale=en" alt="weebhacker" /></p>
+
+
+<img src="https://raw.githubusercontent.com/wee/wee/blob/output/snake.svg" alt="Snake animation" />
+
+###
