@@ -23,6 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weebhacker&show_icons=true&locale=en" alt="weebhacker" /></p>
 
 
-<img src="https://raw.githubusercontent.com/wee/wee/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-###
+
