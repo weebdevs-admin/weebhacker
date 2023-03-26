@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/weebdev-weeb-dev-73928a25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weebdev-weeb-dev-73928a25b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammadyaqub-ahmadjonov-73928a25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadyaqub-ahmadjonov-73928a25b/" height="30" width="40" /></a>
 <a href="https://instagram.com/weeb.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weeb.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/weeb_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weeb_dev" height="30" width="40" /></a>
 </p>
